@@ -1,0 +1,8 @@
+
+.navbar-brand {font-size: 30px; margin-right: 200px;}
+.nav-link {font-size: 30px; margin-right: 50px;}
+#mysidebar-content {background-color: red;
+width:100%;
+}
+#mysidebar {max-width: 20%;}
+#myprofilepic {max-width: 50%; margin-top: 20px;}
