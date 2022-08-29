@@ -1,8 +1,20 @@
+/*small text style */
+#smalltext * {font-size: 17px}
+#smallertext > li {font-size: 50px;}
 
+
+
+/* navbar style */
 .navbar-brand {font-size: 30px; margin-right: 200px;}
-.nav-link {font-size: 30px; margin-right: 50px;}
-#mysidebar-content {background-color: red;
-width:100%;
-}
-#mysidebar {max-width: 20%;}
-#myprofilepic {max-width: 50%; margin-top: 20px;}
+.nav-link {font-size: 30px; margin-right: 50px;text-align: center;}
+#mysidebar-content {width:100%;}
+
+/*sidebar style */
+#mysidebar {max-width: 22%;margin-left: 75px;margin-top: 20px;}
+#myprofilepic {max-width: 100%; margin-top: 20px;}
+#myname {font-size: 25px;margin-top: 50px;color: black;}
+#description1 {font-size: 15px;}
+
+/* content texts */
+#mycontent {margin-left: 60px;margin-top: 30px;margin-right: 75px;}
+#hobbieslist {font-size: 17px;line-height: 180%;}
