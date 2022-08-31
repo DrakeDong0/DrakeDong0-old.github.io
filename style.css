@@ -5,16 +5,22 @@
 /* test */
 
 /* navbar style */
-.navbar-brand {font-size: 30px; margin-right: 200px;}
+.navbar-brand {font-size: 30px; margin-right: 200px;margin-left: 150px;}
 .nav-link {font-size: 30px; margin-right: 50px;text-align: center;}
 #mysidebar-content {width:100%;}
 
 /*sidebar style */
-#mysidebar {max-width: 22%;margin-left: 75px;margin-top: 20px;}
-#myprofilepic {max-width: 100%; margin-top: 20px;}
+#mysidebar {max-width: 15%;margin-left: 350px;margin-top: 50px; }
+#myprofilepic {max-width: 75%; margin-top: 20px;text-align: center;}
 #myname {font-size: 25px;margin-top: 50px;color: black;}
 #description1 {font-size: 15px;}
 
+/*contact info */
+#contactrows {line-height: 30px;}
+#contact1 {text-align: left !important;}
+#col1 {max-width: 20%;text-align: right;}
+
 /* content texts */
-#mycontent {margin-left: 60px;margin-top: 30px;margin-right: 75px;}
-#hobbieslist {font-size: 17px;line-height: 180%;}
+#mycontent {margin-left: 150px;margin-top: 50px;}
+#hobbieslist {font-size: 17px;line-height: 220%;}
+
