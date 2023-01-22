@@ -4,7 +4,7 @@ title: CV
 ---
 
 
-# Curriculum Vitae
+# Portfolio
 
 
 <p>&nbsp;</p>
@@ -12,7 +12,7 @@ title: CV
 ## About me
 
 
-I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 2023. I'm like working in computer science, and I'm always up to learn more.
+I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 2023. I think school is the most fun when you can compete with your friends. In particular, I like working in computer science, and I'm always up to learn more.
 
 <p>&nbsp;</p>
 
@@ -70,7 +70,8 @@ I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 
     * Ontario Scholar (all years)
     * Dr. Norman Bethune Scholar (all years)
     * Proficiency Award (2019)
-    * Waterloo Pascal Contest Certificate of Distinction
+    * 2022 Canadian Open Math Contest Certificate of Honour
+    * 2020 Waterloo Pascal Contest Certificate of Distinction
 
 <p>&nbsp;</p>
 
