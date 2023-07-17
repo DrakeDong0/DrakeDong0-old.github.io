@@ -12,7 +12,7 @@ title: CV
 ## About me
 
 
-I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 2023. I think school is the most fun when you can compete with your friends. In particular, I like working in computer science, and I'm always up to learn more.
+I'm a first year Electrical Engineering student at the University of Waterloo. I'm also looking for intern opportunities for the Winter term of 2024. I think school is the most fun when you can compete with your friends. In particular, I like working in computer science, and I'm always up to learn more.
 
 <p>&nbsp;</p>
 
@@ -28,6 +28,8 @@ I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 
 ## Projects
 
 * **Devolotics**
+* **Scarborough STEM Alliance**
+* **Farming Simulator**
 * **Maze Walker Game**
 * **Turbo Boosters**
 
@@ -37,7 +39,7 @@ I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 
 
 - ***Co-President, Bethune DECA***
     * Guided our DECA chapter to numerous provincials and international finishes
-    * Made Provincials 2020
+    * Made Provincials 2020, 2023
     * Former VP of Marketing
 
     <p>&nbsp;</p>
@@ -46,17 +48,25 @@ I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 
     * Brought home several regional/provincal placements between the squadron band, drill team, and sports team
     <p>&nbsp;</p>
 - ***President, Debate team***
-    * Lead Bethhune's team in several tournaments
+    * Lead Bethune's Debate Team in several tournaments
+    * Volunteered as judge and timekeeper for tournaments
      <p>&nbsp;</p>
 - ***VP of Training, Computer Science Club***
+    * Organized and taught coding languages like python and turing to new students
+    * Hosted an interschool hackathon
     <p>&nbsp;</p>
 - ***Fencing***
     * Vango Lion Cup, *Gold*
     * Vango Dragon Cup, *Bronze*
     <p>&nbsp;</p>
 - ***Bethune Student Representatives***
-- ***Volleyball Team MVP***
-- ***Robotics Team***
+    * REPS Certificate of Distinction
+    <p>&nbsp;</p>
+- ***Boys Volleyball Team***
+    * 2022 TDSSAA Eastern Region AAA Champions
+    * 2019 MVP
+    <p>&nbsp;</p>
+- ***Robotics Team (Devolotics)***
 
 
 <p>&nbsp;</p>
@@ -65,8 +75,9 @@ I'm a grade 12 student at Dr Norman Bethune CI expecting to graduate in June of 
 
 * **Dr. Norman Bethune CI**
 * Sept 2019 - June 2023
-* Grade 11 Cumulative average: 95.5%
 - Achievements
+    * Principal's Award for Student Leadership
+    * 1st Place Inspire Award at 2023 FTC Ontario Provincial Championships
     * Ontario Scholar (all years)
     * Dr. Norman Bethune Scholar (all years)
     * Proficiency Award (2019)
