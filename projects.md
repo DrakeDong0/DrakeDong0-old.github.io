@@ -39,8 +39,7 @@ Devolotics is a high school robotics team from Dr. Norman Bethune CI that compet
     
 <p>&nbsp;</p>
 
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=c_B9GIBCOXw">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_B9GIBCOXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p>&nbsp;</p>
 
