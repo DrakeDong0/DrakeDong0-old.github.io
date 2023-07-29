@@ -35,12 +35,12 @@ Devolotics is a high school robotics team from Dr. Norman Bethune CI that compet
             
         * **Scarborough Qualifier**
             * Think Award
-            * Top Ranked
+            * Top Ranked Team
     
 <div class="container">
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_B9GIBCOXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+<iframe src="https://www.youtube.com/embed/c_B9GIBCOXw" width="560" height="315" title="A YouTube video" frameborder="0" allowfullscreen></iframe>
+</br>
 </div>
 
 ## Farming Simulator
