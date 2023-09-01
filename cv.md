@@ -12,28 +12,18 @@ title: CV
 ## About me
 
 
-I'm a first year Electrical Engineering student at the University of Waterloo. I'm also looking for intern opportunities for the Winter term of 2024. I think school is the most fun when you can compete with your friends. In particular, I like working in computer science, and I'm always up to learn more.
+I'm a first year Electrical Engineering student at the University of Waterloo.
 
 <p>&nbsp;</p>
 
 ## Programming Languages
-* Python, Java
+* Python, Java, HTML/CSS
 
 
 ## Technologies
-* Git, Django
+* Git, Django, Arduino, Jekyll
 
-<p>&nbsp;</p>
 
-## Projects
-
-* **Devolotics**
-* **Scarborough STEM Alliance**
-* **Farming Simulator**
-* **Maze Walker Game**
-* **Turbo Boosters**
-
-<p>&nbsp;</p>
 
 ## Extracurriculars
 
@@ -49,7 +39,7 @@ I'm a first year Electrical Engineering student at the University of Waterloo. I
     <p>&nbsp;</p>
 - ***President, Debate team***
     * Lead Bethune's Debate Team in several tournaments
-    * Volunteered as judge and timekeeper for tournaments
+    * Top Senior Debater Ontario Pro Con May 2023
      <p>&nbsp;</p>
 - ***VP of Training, Computer Science Club***
     * Organized and taught coding languages like python and turing to new students
@@ -64,7 +54,7 @@ I'm a first year Electrical Engineering student at the University of Waterloo. I
     <p>&nbsp;</p>
 - ***Boys Volleyball Team***
     * 2022 TDSSAA Eastern Region AAA Champions
-    * 2019 MVP
+    * 2019 Team MVP
     <p>&nbsp;</p>
 - ***Robotics Team (Devolotics)***
 
