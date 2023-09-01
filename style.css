@@ -21,6 +21,6 @@
 #col1 {max-width: 20%;text-align: right;}
 
 /* content texts */
-#mycontent {margin-left: 150px;margin-top: 50px;margin-right: 200px; }
+#mycontent {margin-left: 150px;margin-top: 50px;margin-right: 200px;margin-bottom: 150px;}
 #hobbieslist {font-size: 17px;line-height: 220%;}
 
