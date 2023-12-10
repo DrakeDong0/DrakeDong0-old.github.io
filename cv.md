@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-[Resume](C:\Users\drake\Documents\Website\Resume.jpg)
+<a href="Resume.jpg" download>Download Resume</a>
 
 <p>&nbsp;</p>
 
