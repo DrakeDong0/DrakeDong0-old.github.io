@@ -3,8 +3,7 @@ layout: default
 title: CV
 ---
 
-<a href="DrakeDong0.github.io
-/Resume.pdf" download>Download Resume</a>
+<a href="/Resume.pdf" download>Download Resume</a>
 
 <p>&nbsp;</p>
 
