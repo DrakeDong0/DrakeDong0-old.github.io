@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-[Find My Resume Here](C:\Users\drake\Documents\Website\Resume.pdf){:download="Resume.pdf"}
+[Resume](C:\Users\drake\Documents\Website\Resume.jpg)
 
 <p>&nbsp;</p>
 
