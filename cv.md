@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-# [Find My Resume Here](C:\Users\drake\Documents\Website\Resume.pdf)
+## [Find My Resume Here](C:\Users\drake\Documents\Website\Resume.pdf)
 
 <p>&nbsp;</p>
 
