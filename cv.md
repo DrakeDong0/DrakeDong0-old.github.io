@@ -4,7 +4,7 @@ title: CV
 ---
 
 <a href="DrakeDong0.github.io
-/Resume.jpg" download>Download Resume</a>
+/Resume.pdf" download>Download Resume</a>
 
 <p>&nbsp;</p>
 
